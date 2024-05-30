@@ -6,3 +6,24 @@ create table Department(
     pincode int(100) not null,
     State varchar(100) not null
     );
+
+
+            git init
+   86  git config --global user.email "t.kaveri@anarghyacomm.in"
+   87  git config --global user.name "kaveritharigopulaa"
+   88  git remote add https://github.com/Kaveritharigopulaa/pratice.git
+   
+   90  git remote add --mirror=push pratice https://github.com/Kaveritharigopulaa/pratice.git
+   91  git add .
+   92  git commit -m "initial commited"
+   93  git push origin main
+   94 
+   96  git push origin master
+   97  ls
+   98  git branch
+   99  ls
+  101  history
+
+
+
+
